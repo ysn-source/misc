@@ -1,0 +1,26 @@
+{
+  "customer":
+  [
+    { "id":"2",
+      "nom":"gerardin",
+      "articles":["lait","viande","sucre","eau","oeuf"]
+    },
+    { "id":"3",
+      "nom":"cecile",
+      "articles":["oeuf"]
+    },
+    { "id":"4",
+      "nom":"raymond",
+      "articles":["pattes","salade"]
+    },
+    { "id":"5",
+      "nom":"simone",
+      "articles":["tomates","patates"]
+    }
+  ],
+  "store": {
+    "nom":"supermark",
+    "adresse":"16 rue du Pont",
+    "code":"90123"
+  }
+}
