@@ -22,5 +22,12 @@
     "nom":"supermark",
     "adresse":"16 rue du Pont",
     "code":"90123"
-  }
+  },
+  "message":[
+    { "id":1
+    "nom":"Leloup",
+    "prenom":"pierrot",
+    "objet":"pas de réduction",
+    "message":"bonjour lorem ipsum"}
+  ]
 }
